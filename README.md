@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohan-blueexpress
 - 👀 I’m interested in Datascience, ML, IA
-- 🌱 I’m currently learning ML models
+- 🌱 I’m currently learning ML models and IA
 
 
 <!---
